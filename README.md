@@ -4,6 +4,8 @@ Este repositorio contiene la solución al reto de desarrollar una web de mi CV u
 ## Arquitectura
 Los servicios que se han utilizado para llevar a cabo el proyecto son los siguientes:
 - S3
+- Route 53
+- Certificate Manager
 - AWS CloudFront
 - AWS Lambda
 - Dynamo DB
